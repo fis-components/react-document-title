@@ -6,7 +6,7 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "react-side-effect": "^0.3.2"
+        "react-side-effect": "^1.0.0"
     },
-    "version": "2.0.0"
+    "version": "2.0.1"
 }
