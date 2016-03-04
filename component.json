@@ -1,0 +1,12 @@
+{
+    "name": "react-document-title",
+    "description": "A declarative, nested, stateful document.title for React",
+    "repos": "https://github.com/gaearon/react-document-title.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react-side-effect": "^0.3.2"
+    },
+    "version": "1.0.4"
+}
